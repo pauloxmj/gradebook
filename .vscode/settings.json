@@ -1,0 +1,9 @@
+{
+    "workbench.tree.renderIndentGuides": "always",
+    "explorer.compactFolders": false,
+    "workbench.colorCustomizations": {
+        "tree.indentGuidesStroke": "#42f5ef"
+    },
+    "workbench.tree.indent": 12,
+    "editor.acceptSuggestionOnCommitCharacter": false
+}

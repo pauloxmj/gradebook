@@ -1,4 +1,4 @@
 # gradebook
-C# Console App from pluralsight course
+C# Console App
 
-Projeto de uma grade de notas que roda via CLI para aprendizado de C#
+Projeto de  grade de notas que roda via CLI para aprendizado de C#
